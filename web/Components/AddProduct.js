@@ -53,7 +53,7 @@ export default class AddProduct extends React.Component {
                                 <div class="clearfix"></div>
 
                                 <div class="row">
-
+                                    <br>
                                     <div class="col-md-12 col-sm-12 col-xs-12">
                                         <div class="x_panel">
                                             <div class="x_title">
